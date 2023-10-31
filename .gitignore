@@ -1,7 +1,4 @@
 .env
-icon_source
-icons
-icons_cache
 .Python
 env/
 build/
@@ -21,3 +18,13 @@ var/
 
 # Serverless directories
 .serverless
+
+# Editors
+.vscode
+
+# Project specific
+icons-source
+icons
+.icons-cache
+icons.zip
+

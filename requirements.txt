@@ -1,0 +1,5 @@
+numpy
+pillow
+python-dotenv
+pyvips
+requests
